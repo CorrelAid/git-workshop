@@ -1,0 +1,9 @@
+config: {
+    "first-line-heading": false,
+    "line-length": false,
+    "no-inline-html": false,
+    "first-line-h1": false
+  }
+outputFormatters: [
+  [ "markdownlint-cli2-formatter-junit", { "name": "markdown-linting-errors.xml" } ]
+]
