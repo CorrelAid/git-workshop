@@ -4,7 +4,7 @@
 
 | Is this section core or elective? | Expected time to completion |
 | --- | --- |
-| core | before noon on the first day |
+| core | before second meeting |
 
 This chapter is an installation guide for [`git`](./GitBasics), including
 [`bash`](./BashBasics).
@@ -28,7 +28,9 @@ We recommend installing the latest release of Git for Windows from the
 [official `git` homepage][git-scm]. In case you already have `git` installed, we
 recommmend to uninstall and re-install it with the settings given here. Download
 the latest
-[64-bit version of Git for Windows Setup](https://git-scm.com/download/win) and
+[64-bit version of Git for Windows Setup](https://git-scm.com/download/win),
+[Git for Mac](https://git-scm.com/download/mac), or
+[Git for Linux](https://git-scm.com/download/linux) and
 run the downloaded executable.
 
 Remove the _Only show new options_ check box. When executing the installation,

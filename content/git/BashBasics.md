@@ -4,7 +4,7 @@
 
 | Is this section core or elective? | Expected time to completion |
 | --- | ---- |
-| core | before noon on the first day |
+| core | before second meeting |
 
 `bash` is a shell, or command-line interface (CLI), which is a computer program
 exposing the operating system's (OS) services to the user. Its purpose is to

@@ -4,7 +4,7 @@
 
 | Is this section core or elective? | Expected time to completion |
 | --- | ---- |
-| core | by the end of the first day |
+| core | before third meeting |
 
 Here are some practical exercises for you to try out. Remember to hand in a file with your bash commands as described in
 [how to submit solutions.](../../Introduction#review-process-for-the-first-chapters-on-git)

@@ -4,7 +4,7 @@
 
 | Is this section core or elective? | Expected time to completion |
 | --- | --- |
-| core | early afternoon of the first day |
+| core | before third meeting |
 
 ## Introduction
 
