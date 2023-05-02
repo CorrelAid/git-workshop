@@ -1,4 +1,4 @@
-# Basis IT-Training
+# d-fine Git Training
 
 [Introduction](Introduction)
 
@@ -12,7 +12,7 @@
 
 ## Frequently asked questions
 
-Based on feedback from previous iterations of the training, we collected some
+Based on feedback from previous iterations of the training, we have collected some
 common recommendations as well as frequently asked questions along with answers
 regarding the organizational structure and ideas of the training. Please review
 them before providing feedback for the training.
