@@ -1,6 +1,6 @@
 # Git Workshop
 
-Contents are [here](docs/home.md).
+Contents are [here](docs/index.md).
 
 ## Lizenzinformationen
 
