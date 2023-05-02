@@ -1,6 +1,6 @@
 # Git basics
 
-[[_TOC_]]
+[[_TOC{:toc}]
 
 | Is this section core or elective? | Expected time to completion |
 | --- | --- |
