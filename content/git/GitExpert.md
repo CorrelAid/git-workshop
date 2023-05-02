@@ -4,7 +4,7 @@
 
 | Is this section core or elective? | Expected time to completion |
 | --- | ---- |
-| elective | by noon on the second day |
+| elective | before last meeting |
 
 ## Goal
 
@@ -49,6 +49,8 @@ work on their clone of this repository locally and commit and push their changes
 directly into the central repository.
 
 ![Central Workflow](images/central_workflow.png)
+source:
+<https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows>
 
 Without further means, this workflow does not enforce a four-eyes principle or
 a code review. However, Git servers such as GitLab or Bitbucket are often
@@ -72,6 +74,8 @@ as the 'integration manager'. The workflow is as follows:
 1. The integration manager pushes the merged result to the blessed repository.
 
 ![integration_workflow](images/integration_workflow.png)
+source:
+<https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows>
 
 The integration manager workflow enforces a four-eyes principle. Another
 advantage for larger development teams over the centralized workflow is that the
@@ -89,6 +93,8 @@ remote branch in the current state of the blessed repository, checks
 everything again and finally pushes that state into the blessed repository.
 
 ![Dictator Lieutenants Workflow](images/dict_lieutenants_workflow.png)
+source:
+<https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows>
 
 This workflow scales to any number of developers and safeguards the main
 repository very well due to at least two code reviews. It is used for the
@@ -207,7 +213,6 @@ pull the amended commit into his local repository._
 ## Navigation
 
 - [Back to "Git Advanced"](./git_advanced/GitAdvanced)
-- [Continue with "GitLab Basics"](../gitlab/GitLabBasics)
 - [Return to top level](../home)
 
 [1]: https://www.atlassian.com/git/tutorials/syncing/git-push

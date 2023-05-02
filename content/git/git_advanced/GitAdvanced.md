@@ -4,7 +4,7 @@
 
 | Is this section core or elective? | Expected time to completion |
 | --- | ---- |
-| core | by the end of the first day, including subsections |
+| core | before third meeting |
 
 This section covers advanced topics of git such as branching and merging. The
 goal is to help you build a mental model of how git branching works and teach
