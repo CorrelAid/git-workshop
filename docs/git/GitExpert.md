@@ -213,7 +213,7 @@ pull the amended commit into his local repository._
 ## Navigation
 
 - [Back to "Git Advanced"](./git_advanced/GitAdvanced)
-- [Return to top level](../home)
+- [Return to top level](../index)
 
 [1]: https://www.atlassian.com/git/tutorials/syncing/git-push
 [2]: https://git-scm.com/docs/git-rebase

@@ -139,6 +139,6 @@ you set up for the subsequent chapters in a breeze.
 
 - [Back to "Introduction"](../Introduction)
 - [Continue with "Bash Basics"](./BashBasics)
-- [Return to top level](../home)
+- [Return to top level](../index)
 
 [git-scm]: https://git-scm.com/

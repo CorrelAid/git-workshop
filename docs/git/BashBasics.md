@@ -65,7 +65,7 @@ when using commands that modify the file system!
 - `cat <file>` print contents of a file
 - `cd <dir>` changes working directory
 - `touch <file>` create a file
-- `vim <file>` create a new or edit an existing file in vim. Note: [How to use vim.](https://devhints.io/vim)  
+- `vim <file>` create a new or edit an existing file in vim. Note: [How to use vim.](https://devhints.io/vim)
 - `mkdir <dir>` create a directory
 - `cp <file0> <file1>` copy a file/folder
 - `mv <file0> <file1>` move/rename a file/folder
@@ -190,7 +190,7 @@ solutions.](../Introduction#review-process-for-the-first-git-chapters)
 
 - [Back to "Git Bash Installation"][git-bash-installation]
 - [Continue with "Git Basics"](./GitBasics)
-- [Return to top level](../home)
+- [Return to top level](../index)
 
 [gnu-bash]: <https://www.gnu.org/software/bash/>
 [bash-cheat-sheet]: <https://devhints.io/bash>

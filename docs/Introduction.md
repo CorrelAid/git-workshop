@@ -113,4 +113,4 @@ Start now with [Git / Bash Installation](git/GitBashInstallation).
 ## Navigation
 
 - [Continue with "Git / Bash Installation"](git/GitBashInstallation)
-- [Return to top level](home)
+- [Return to top level](index)

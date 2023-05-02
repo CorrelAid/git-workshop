@@ -277,7 +277,7 @@ first, empty version of `myFile_1.txt` and your last version of `myFile_2.txt`.
 
 - [Back to "Bash Basics"](./BashBasics)
 - [Continue with "Git Advanced"](./git_advanced/GitAdvanced)
-- [Return to top level](../home)
+- [Return to top level](../index)
 
 [git-doc]: <https://git-scm.com/docs>
 [git-obj]: <http://book.git-scm.com/book/en/v2/Git-Internals-Git-Objects>

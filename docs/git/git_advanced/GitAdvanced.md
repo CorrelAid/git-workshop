@@ -49,4 +49,4 @@ problem more easily.
 
 - [Back to "Git Basics"](../GitBasics)
 - [Continue with "Git Expert"](../GitExpert)
-- [Return to top level](../../home)
+- [Return to top level](../../index)
