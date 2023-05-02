@@ -1,6 +1,6 @@
 # Git Workshop
 
-Contents are [here](docs/index.md).
+Contents are [here](https://correlaid.github.io/git-workshop/index).
 
 ## Lizenzinformationen
 
