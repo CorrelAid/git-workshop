@@ -1,6 +1,6 @@
 # Exercises
 
-\[\[_TOC_\]\]
+{:toc}
 
 | Is this section core or elective? | Expected time to completion |
 | --- | ---- |
