@@ -26,4 +26,5 @@ jobs:
         with:
           path: 'docs'
       - name: Deploy to Pages
+        id: deployment
         uses: actions/deploy-pages@v2
