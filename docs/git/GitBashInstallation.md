@@ -1,6 +1,6 @@
 # Installation of Git including Bash
 
-\[\[_TOC_\]\]
+{:toc}
 
 | Is this section core or elective? | Expected time to completion |
 | --- | --- |
