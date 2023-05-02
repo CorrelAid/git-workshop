@@ -7,12 +7,17 @@ on:
 jobs:
   build_wiki:
     runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Upload latest version of training materials to GitHub Wiki
-        uses: SwiftDocOrg/github-wiki-publish-action@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          path: "docs"
-        env:
-          GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: 'docs'
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v2
