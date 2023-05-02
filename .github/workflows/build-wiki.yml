@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     environment:
-      name: github-pages
+      name: default
       url: ${{ steps.deployment.outputs.page_url }}
 
     permissions:
