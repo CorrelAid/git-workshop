@@ -13,7 +13,7 @@ will show you how to merge branches together
 
 ## What is a merge?
 
-A merge is a means of bringing together a separated (branched) commit history
+A merge is a means of bringing a separated (branched) commit history
 back together. The commits on separate branches can be put together to create a
 unified line with all changes included by means of a git merge.
 
