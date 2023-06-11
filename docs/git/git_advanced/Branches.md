@@ -185,7 +185,7 @@ get rid of those changes. We can do so by deleting the branch.
 This would remove the cluster branch and all its commits. Those changes in the
 commits on that branch are now gone.
 
-Tip: Technically, the changes are not gone and still exists in the git
+Tip: Technically, the changes are not gone and still exist in the git
 database. But for simplicity, let's assume they are gone.
 
 There are a few things to note about deleting branches.
